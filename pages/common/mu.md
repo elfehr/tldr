@@ -1,7 +1,7 @@
 # mu
 
 > Index and search emails from a local Maildir.
-> More information: <https://www.djcbsoftware.nl/code/mu/>.
+> More information: <https://manned.org/mu>.
 
 - Initialize the email database, optionally specifying the Maildir directory and email addresses belonging to self :
 
